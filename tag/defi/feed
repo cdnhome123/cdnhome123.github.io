@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DeFi - CDN评测网</title>
+	<atom:link href="https://www.cdnpingce.com/tag/defi/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.cdnpingce.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 10 Mar 2025 05:17:23 +0000</lastBuildDate>
+	<language>zh-Hans</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>https://www.cdnpingce.com/wp-content/uploads/2022/12/cropped-favicon-32x32.png</url>
+	<title>DeFi - CDN评测网</title>
+	<link>https://www.cdnpingce.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>2025国外cdn评测（10家）</title>
+		<link>https://www.cdnpingce.com/38.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-is-south-korea-throwing-money-at-the-metaverse</link>
+					<comments>https://www.cdnpingce.com/38.html#respond</comments>
+		
+		<dc:creator><![CDATA[CDN测评]]></dc:creator>
+		<pubDate>Wed, 14 Dec 2022 16:12:09 +0000</pubDate>
+				<category><![CDATA[服务器]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Metaverse]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Price]]></category>
+		<guid isPermaLink="false">https://export.mercurytheme.com/011/?p=38</guid>
+
+					<description><![CDATA[<p>1.Akamai CDN 解决方案 Akamai 是提供安全、计算和在线内容交付服务的全球领导者。Akamai [&#8230;]</p>
+<p>The post <a href="https://www.cdnpingce.com/38.html">2025国外cdn评测（10家）</a> first appeared on <a href="https://www.cdnpingce.com">CDN评测网</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.gartner.com/reviews/market/edge-distribution-platforms/vendor/akamai/product/akamai-web-performance-services"></a></p>
+
+
+
+<h3 class="wp-block-heading">1.<a class="" target="_blank" rel="noreferrer noopener">Akamai CDN 解决方案</a></h3>
+
+
+
+<p>Akamai 是提供安全、计算和在线内容交付服务的全球领导者。Akamai 帮助企业实现零信任、预防勒索软件、保护应用程序和 API 并防御 DDoS 攻击。Akamai Connected Cloud 覆盖 130 个国家/地区的 1,200 个网络，覆盖 4,100 多个地点，并为其用户提供更大的规模、容量和覆盖范围。</p>
+
+
+
+<p>Akamai 提供多种内容交付网络解决方案，可提供快速且引人入胜的最终用户体验。这些解决方案有助于优化性能和可用性、进行压力测试、管理流量并为用户保持快速且引人入胜的在线体验。Akamai 专注于提供一致的用户体验，无论使用何种设备或身处何地，从而帮助企业实现全球规模。</p>
+
+
+
+<p>Akamai 还可通过任何设备为大量观众提供一致的视频和媒体流体验。这些解决方案旨在支持数百万观众的大型媒体活动，提高卸载和成本效率，深入了解性能和用户参与度，并提供安全的存储功能。总体而言，Akamai 提供领先的 CDN 解决方案，帮助企业保护其数字存在、增强用户体验并在全球范围内安全地交付内容。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://expertinsights.com/cdn-cgi/image/format=auto/https://expertinsights.com/insights/wp-content/uploads/2021/04/Akamai-logo.png" alt="Akamai 徽标" title="Akamai 徽标"/></figure>
+
+
+
+<h3 class="wp-block-heading">2.<a class="" target="_blank" rel="noreferrer noopener">亚马逊 Cloudfront</a></h3>
+
+
+
+<p>Amazon CloudFront 是一种内容分发网络 (CDN) 服务，旨在实现高性能、安全性和开发人员便利性。它通过由 550 多个接入点 (PoP) 组成的全球网络加速静态和动态 Web 内容的分发，确保低延迟和高传输速度。使用智能路由和自动网络映射来交付内容，从而帮助改善用户体验。</p>
+
+
+
+<p>该服务通过流量加密和访问控制以及 AWS Shield Standard 增强了安全性；这可以防止 DDoS 攻击，且无需额外付费。Amazon CloudFront 还提供合并请求、可自定义的定价选项，并且无需支付来自 AWS 来源的数据传输费用。用户可以使用无服务器计算功能进一步优化内容交付，平衡成本、性能和安全性。</p>
+
+
+
+<p>Amazon CloudFront 支持各种用例，包括快速安全的网站、动态内容交付以及用于直播和点播视频流的 API。它还能够通过自动扩展和高传输速率高效地分发软件补丁、游戏更新和 IoT 无线 (OTA) 更新。总体而言，对于寻求高性能 CD​​N 服务、具有强大安全性和开发人员友好功能的组织来说，Amazon CloudFront 是一个全面的解决方案。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://expertinsights.com/cdn-cgi/image/format=auto/https://expertinsights.com/insights/wp-content/uploads/2021/09/AWS-Logo.png" alt="AWS 徽标" title="AWS 徽标"/></figure>
+
+
+
+<h3 class="wp-block-heading">3.<a class="" target="_blank" rel="noreferrer noopener">CDN5</a></h3>
+
+
+
+<p> CDN5——全球化数字体验的“隐形守护者”，专注为游戏开发、跨境电商及实时互动场景提供智能内容分发解决方案。依托全球2850+自建边缘节点与独创的AI动态路由技术，将亚洲核心区域的延迟压缩至30ms以内，并以“手术刀级”DDoS防护体系拦截99.7%的复杂攻击。不同于传统CDN服务商“一刀切”的流量定价，CDN5首创游戏行业弹性计费模型，支持按场景动态调配资源，实测为《永劫无间》东南亚服降低46%带宽成本，助力《崩坏：星穹铁道》实现中东地区首次零卡顿版本更新。从东京电竞直播的0.1秒帧同步，到里约热内卢电商促销的秒级加载，CDN5用“无感加速”重新定义全球用户的数字体验边界。</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="423" data-id="548" src="https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-1024x423.png" alt="" class="wp-image-548" srcset="https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-1024x423.png 1024w, https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-300x124.png 300w, https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-768x317.png 768w, https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-97x40.png 97w, https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-77x32.png 77w, https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-169x70.png 169w, https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-194x80.png 194w, https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1-327x135.png 327w, https://www.cdnpingce.com/wp-content/uploads/2022/12/cdn5logo-03-1.png 1067w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<h3 class="wp-block-heading">4<a class="" target="_blank" rel="noreferrer noopener">CDN77</a></h3>
+
+
+
+<p>CDN77 是一个内容分发网络，供高需求网站和应用使用，每月为超过 10 亿用户提供服务。CDN77 每秒处理超过 500 万个 HTTP 请求，其 130 Tbps 网络遍布六大洲，可容纳大量流量和峰值。</p>
+
+
+
+<p>CDN77 的主要特点包括强大的全球网络主干，可直接访问 3,000 多家本地 ISP、300 多个 PNI 和 15 家顶级传输提供商。该网络的每日流量峰值为 50 Tbps，平均缓存命中率为 98%。CDN77 强调采用定制方法，提供量身定制的解决方案，定价灵活，并提供 24/7 内部技术支持，以实现最佳服务和客户满意度。</p>
+
+
+
+<p>CDN77 提供一系列功能来提高性能、安全性和用户体验，例如自定义规则和配置、针对自定义场景的灵活开发以及专用 CDN 基础设施。安全协议（包括 SSL/TLS 证书和令牌）以及内容保护措施（如热链接保护、地理位置保护和 IP 保护）可确保内容交付保持安全。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://expertinsights.com/cdn-cgi/image/format=auto/https://expertinsights.com/insights/wp-content/uploads/2023/11/Group-87-1.png" alt="CDN77 徽标" title="CDN77 徽标"/></figure>
+
+
+
+<h3 class="wp-block-heading">5<a class="" target="_blank" rel="noreferrer noopener">Cloudflare CDN</a></h3>
+
+
+
+<p>Cloudflare CDN 是一种内容交付网络服务，提供静态和动态缓存，以提高网站和应用程序的性能。所有 Cloudflare 应用程序服务计划均免费提供此服务。Cloudflare CDN 拥有覆盖 310 多个城市和 120 个国家/地区的全球网络，在全球约 95% 的互联网连接人口中，运行时间约为 50 毫秒。Cloudflare 可改善 Web 和移动用户的加载时间性能，同时通过减少对原始服务器的请求来降低带宽成本并最大限度地降低托管费用。</p>
+
+
+
+<p>Cloudflare CDN 的高级功能包括对缓存的细粒度可见性，使用户可以提高缓存命中率并获得可操作的见解。此功能还包括用于网站性能优化的仪表板视图以及按主机名进行筛选或查看未缓存的顶级 URL 列表的功能。Cloudflare CDN 提供对 BYOIP（自带 IP）的支持，使客户能够让 Cloudflare 公布他们的 IP，并将其附加到他们选择的 Cloudflare 服务。此外，它还支持最新一代的 Web 协议 HTTP/3，该协议使用 QUIC 来加速流量传输并提高连接可靠性和安全性。</p>
+
+
+
+<p>Cloudflare 受到 30% 的财富 1000 强公司的信任，并提供通用 SSL 证书、无计量 DDoS 保护和 Web 应用程序防火墙 (WAF) 等功能。企业功能包括 24/7/365 多渠道支持、100% 正常运行时间保证和 25 倍补偿 SLA、基于使用情况的产品的可预测固定费率定价以及高级控制和管理选项。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://expertinsights.com/cdn-cgi/image/format=auto/https://expertinsights.com/insights/wp-content/uploads/2021/09/Cloudflare.png" alt="Cloudflare 徽标" title="Cloudflare 徽标"/></figure>
+
+
+
+<h3 class="wp-block-heading">6<a class="" target="_blank" rel="noreferrer noopener">Edgio </a></h3>
+
+
+
+<p>Edgio Delivery 是一个内容交付网络 (CDN)，旨在为任何设备提供安全的内容。它专注于大规模提供具有卓越质量和可靠性的流媒体视频和文件下载。Edgio Delivery 的全球边缘网络可加速内容交付，并具有 300 多个接入点，容量超过 250 Tbps。该网络维护着 7,000 多个全球互连，以确保优化内容交付路线。</p>
+
+
+
+<p>该平台提供各种控制功能，例如边缘控制、规则引擎和 Terraform 集成，以管理交付配置。这些工具使企业能够操纵和存储数据以获得最佳性能，并根据精确的规范定制内容分发方式。Edgio 的数据分析有助于了解消费者偏好、提高交付性能并降低成本。该平台的实时日志交付、统计数据和自定义报告提供了有价值的见解，以做出明智的决策。</p>
+
+
+
+<p>Edgio 还专注于安全措施，通过 Origin Shield 和 Web 应用程序防火墙 (WAF) 等功能保护 Web 基础设施免受 DDoS 攻击。该平台可检测和防止应用程序层攻击、过滤不需要的流量并缓解潜在的 Web 服务器过载。总体而言，Edgio Delivery 为需要在全球范围内安全且高性能地交付内容的企业提供了高效的 CDN 解决方案。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://expertinsights.com/cdn-cgi/image/format=auto/https://expertinsights.com/insights/wp-content/uploads/2024/11/Group-34183.png" alt="Edgio 标志" title="Edgio 标志"/></figure>
+
+
+
+<h3 class="wp-block-heading">7<a class="" target="_blank" rel="noreferrer noopener">Fastly</a></h3>
+
+
+
+<p>Fastly 内容交付网络是一家 CDN 提供商，旨在帮助企业提供快速且个性化的 Web 和移动体验。它提供实时可见性、日志集成和对敏捷 DevOps 实践的支持。Fastly 高度可配置的 CDN 允许轻松修改内容缓存和 API 设置，从而促进更快的内容更改和无压力的回滚。</p>
+
+
+
+<p>该平台集成了 DDoS 保护、下一代 WAF 和 TLS 加密等内置安全功能，为用户提供构建和运行应用程序的安全环境。Fastly CDN 的设计提供快速内容清除、更高的缓存命中率、更好的性能和节省成本的效率。这些功能有助于改善用户体验、提高参与度、无缝扩展并降低基础设施成本。</p>
+
+
+
+<p>Fastly 的产品包括流媒体传输、TLS 加密、专用 IP 地址以及对多种连接方法的支持。此外，它还提供标准、黄金和企业支持计划，以满足不同的客户需求。该平台的主要功能包括可配置性、实时控制和安全措施（例如宽限模式和自动修复），以确保最佳性能和安全性。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://expertinsights.com/cdn-cgi/image/format=auto/https://expertinsights.com/insights/wp-content/uploads/2023/05/Group-34171.png" alt="Fastly 徽标" title="Fastly 徽标"/></figure>
+
+
+
+<h3 class="wp-block-heading">8<a class="" target="_blank" rel="noreferrer noopener">Gcore CDN </a></h3>
+
+
+
+<p>Gcore CDN 是新一代内容交付网络，旨在让 Web 应用程序快速响应，满足全球受众的需求。Gcore CDN 在全球范围内具有低延迟，让用户能够像主机位于其所在地区一样访问应用程序。动态内容加速加快了生成内容的交付时间，使 Web 应用程序响应更快。</p>
+
+
+
+<p>Gcore CDN 的全球网络由 150 多个接入点 (PoP) 和 110 Tbps 网络容量组成，全球平均延迟为 30 毫秒。它们每秒处理 200 万个请求，平均缓存命中率为 85%。他们的基础设施支持 IPv4 和 IPv6 协议，并提供各种功能，包括 Anycast 和 GeoDNS 路由、边缘规则、自定义 SSL 证书、扩展 API、Terraform 和 Grafana 支持以及双因素身份验证。</p>
+
+
+
+<p>Gcore CDN 非常适合用于 Web 应用程序、电子商务、游戏、软件资产和视频流，它提供的解决方案包括提高网站速度、即时播放以及针对流量激增和 DDoS 攻击的强大保护。此外，他们的 Image Stack 工具通过将图像转换为 WebP 或 AVIF 格式、控制图像质量、调整大小和裁剪图像，帮助简化网站所有者和开发人员的工作流程。</p>
+
+
+
+<p>Gcore CDN 还提供内置的网络安全功能，包括 SSL/TLS 加密、高级访问策略、L3、L4 和 L7 DDoS 缓解以及下一代 Web 应用程序防火墙 (WAF)。他们提供按需付费的定价模式，并针对个人网站、小型企业、专业 Web 项目和大型在线服务提供计划。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://expertinsights.com/cdn-cgi/image/format=auto/https://expertinsights.com/insights/wp-content/uploads/2023/11/Group-88-1.png" alt="GCore 徽标" title="GCore 徽标"/></figure>
+
+
+
+<h3 class="wp-block-heading">9<a class="" target="_blank" rel="noreferrer noopener">Google Cloud </a></h3>
+
+
+
+<p>Google Cloud CDN 和 Media CDN 是内容分发网络平台，可帮助将经常访问的静态内容缓存到更靠近用户的位置。Cloud CDN 针对静态和动态延迟敏感型 Web 资源（例如 CSS、JavaScript、HTML 和图片文件）进行了优化。Media CDN 是使用 YouTube 的基础架构为流式视频和大文件下载而构建的。这两个 CDN 平台的结合有助于提高用户性能、减少原始基础架构资源使用量并降低网络分发成本。</p>
+
+
+
+<p>Cloud CDN 和 Media CDN 与任何支持 HTTP 的源兼容，包括 Google Compute Engine、Cloud Storage 和 Google Kubernetes Engine，以及 Google Cloud 之外的源。这些平台还与 Google Cloud Armor 集成以实现深度安全性，并提供细粒度缓存控制以实现可自定义的缓存行为。这些平台还提供高级 HTTP 路由功能、实时日志记录和指标，并支持现代协议，例如 TLS 1.3 版和 QUIC。</p>
+
+
+
+<p>通过利用 Google 的全球边缘网络，Cloud CDN 和 Media CDN 可以高效地将内容带到更靠近用户的地方，从而减少延迟、成本和后端服务器的负载。常见用例包括提供静态内容、动态内容、视频流、复杂游戏和软件下载。Cloud CDN 和 Media CDN 使用基于带宽和 HTTP/HTTPS 请求的定价模型。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://expertinsights.com/cdn-cgi/image/format=auto/https://expertinsights.com/insights/wp-content/uploads/2021/04/Google-Cloud-Logo.png" alt="Google 云徽标" title="Google 云徽标"/></figure>
+
+
+
+<h3 class="wp-block-heading"><a class="" target="_blank" rel="noreferrer noopener">Imperva CDN</a></h3>
+
+
+
+<p>Imperva 内容交付网络 (CDN) 是一个综合平台，旨在安全地在全球范围内交付应用程序。它结合了内容缓存、负载平衡和故障转移功能，以提供增强的网站体验。通过采用机器学习，Imperva CDN 可以高效地缓存动态生成的页面，同时确保内容的新鲜度，从而减少带宽消耗并提高缓存利用率。</p>
+
+
+
+<p>凭借先进的缓存、内容优化技术和全球数据中心网络，Imperva CDN 可确保快速、安全的内容交付和更快的连接速度。它适用于各种应用程序，包括现代和传统应用程序、第三方应用程序、API 和微服务。作为 Imperva WAAP 安全平台的一部分，CDN 还可以防范最新的安全威胁，确保更安全的网站体验。</p>
+
+
+
+<p>此外，Imperva CDN 还提供简单的规则管理，以便根据特定环境进行定制。它可以根据访问者和请求属性做出决策，而无需更改面向用户的 URL。Imperva 使用基于云的本地服务器负载平衡器、全局服务器负载平衡器和自动站点故障转移选项重新定义负载平衡，从而提高运营效率。</p>
+
+
+
+<p>总体而言，Imperva CDN 可增强网站和应用程序的性能，提供更快的加载时间、更低的延迟、更好的动态内容交付和更低的带宽成本。突出的功能包括高级缓存、内容优化、自定义规则、负载平衡、自动故障转移和自动安全解决方案。</p><p>The post <a href="https://www.cdnpingce.com/38.html">2025国外cdn评测（10家）</a> first appeared on <a href="https://www.cdnpingce.com">CDN评测网</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.cdnpingce.com/38.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
